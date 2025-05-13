@@ -18,7 +18,7 @@ With a solid foundation in **data visualization**, **statistical analysis**, and
 ### 🛠️ Tools & Technologies
 
 - **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
-- **Visualization**: Power BI, Tableau, Excel  
+- **Visualization**: Power BI, Excel  
 - **Data Handling**: Excel, Google Sheets, Jupyter Notebooks  
 - **Other**: Git/GitHub, VS Code, APIs  
 
@@ -36,7 +36,7 @@ With a solid foundation in **data visualization**, **statistical analysis**, and
 
 I’m always open to collaboration or just a friendly chat about data, tech, or your favorite dashboard trick!  
 **Email**: balikisagboluaje98@gmail.com
-**LinkedIn**: (linkedin.com/in/balikis-agboluaje-573339353)  
+**LinkedIn**: www.linkedin.com/in/balikis-agboluaje-573339353
 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
 ---
