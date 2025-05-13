@@ -35,8 +35,8 @@ With a solid foundation in **data visualization**, **statistical analysis**, and
 ### 📫 Let's Connect
 
 I’m always open to collaboration or just a friendly chat about data, tech, or your favorite dashboard trick!  
-**Email**: your.email@example.com  
-**LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+**Email**: balikisagboluaje98@gmail.com
+**LinkedIn**: (linkedin.com/in/balikis-agboluaje-573339353)  
 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
 ---
